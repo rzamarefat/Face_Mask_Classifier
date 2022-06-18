@@ -9,6 +9,10 @@
 ```
 conda craete --name mask_detector
 ```
+antivate d then activate it using the following command
+```
+conda activate mask_detector
+```
 2. Install all the dependencies
 3. cd into the FaceBoxes package and run the following command
 ```
