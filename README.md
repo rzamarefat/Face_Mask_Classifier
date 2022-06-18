@@ -9,7 +9,7 @@
 ```
 conda craete --name mask_detector
 ```
-antivate d then activate it using the following command
+and then activate it using the following command
 ```
 conda activate mask_detector
 ```
